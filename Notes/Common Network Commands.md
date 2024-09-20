@@ -9,3 +9,9 @@
 `arp -a` - shows Ip address it talks to, and the MAC address it's associated with
 `netstat -ano` - shows active connections running on current machine 
 `route` - prints your routing table, showing you where your traffic exits
+
+## Update 
+`ip` - new command that can do multiple commands on its own 
+- `ip a` = `ifconfig`
+- `ip n` = `arp -a`
+- `ip r` = `route`
