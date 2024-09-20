@@ -1,3 +1,80 @@
 [Ethical Hacking in 12 Hours - Full Course - Learn to Hack!](https://www.youtube.com/watch?v=fNzpcB7ODxQ&ab_channel=TheCyberMentor)
 
-[0:00](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=0s) - Introduction/whoami [6:20](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=380s) - A Day in the Life of an Ethical Hacker [23:14](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=1394s) - Effective Notekeeping [29:58](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=1798s) - Important Tools [35:23](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=2123s) - Networking Refresher: Introduction [36:39](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=2199s) - IP Addresses [49:50](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=2990s) - MAC Addresses [53:07](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=3187s) - TCP, UDP, & the Three-Way Handshake [58:25](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=3505s) - Common Ports & Protocols [1:04:39](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=3879s) - The OSI Model [1:10:14](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=4214s) - Subnetting [1:37:17](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=5837s) - Installing VMWare / VirtualBox [1:43:37](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=6217s) - Installing Kali Linux [1:50:11](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=6611s) - Configuring VirtualBox [1:53:32](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=6812s) - Kali Linux Overview [1:57:05](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=7025s) - Sudo Overview [2:02:22](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=7342s) - Navigating the File System [2:14:26](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=8066s) - Users & Privileges [2:23:54](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=8634s) - Common Network Commands [2:29:50](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=8990s) - Network Commands Update [2:31:49](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=9109s) - Installing & Updating Tools [2:41:01](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=9661s) - Installing gedit [2:42:46](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=9766s) - Viewing, Creating, & Editing Files [2:48:49](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=10129s) - Scripting with Bash [3:11:28](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=11488s) - Intro to Python [3:13:52](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=11632s) - Strings [3:21:25](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=12085s) - Math [3:27:24](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=12444s) - Variables & Methods [3:38:41](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=13121s) - Functions [3:49:40](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=13780s) - Boolean Expressions [3:54:14](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=14054s) - Relational & Boolean Operators [4:01:13](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=14473s) - Conditional Statements [4:10:13](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=15013s) - Lists [4:20:41](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=15641s) - Tuples [4:23:16](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=15796s) - Looping [4:28:18](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=16098s) - Importing Modules [4:34:24](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=16464s) - Advanced Strings [4:47:47](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=17267s) - Dictionaries [4:55:23](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=17723s) - Sockets [5:00:55](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=18055s) - Building a Port Scanner [5:21:09](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=19269s) - The 5 Stages of Ethical Hacking [5:26:31](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=19591s) - Passive Recon Overview [5:34:07](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=20047s) - Identifying Our Target [5:37:46](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=20266s) - Discovering Email Addresses [5:53:38](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=21218s) - Breached Credentials Part 1 [6:01:00](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=21660s) - Breached Credentials Part 2 [6:13:00](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=22380s) - Hunting Subdomains Part 1 [6:18:35](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=22715s) - Hunting Subdomains Part 2 [6:23:30](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=23010s) - Identifying Website Technologies [6:30:39](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=23439s) - Gathering Information w/ Burp Suite [6:39:33](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=23973s) - Google Fu [6:45:09](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=24309s) - Utilizing Social Media [6:50:49](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=24649s) - Installing Kioptrix [6:57:12](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=25032s) - Scanning w/ Nmap [7:17:04](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=26224s) - Enumerating HTTP/HTTPS Part 1 [7:32:09](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=27129s) - Enumerating HTTP/HTTPS Part 2 [7:47:22](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=28042s) - Enumerating SMB [8:01:46](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=28906s) - Enumerating SSH [8:05:59](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=29159s) - Researching Potential Vulnerabilities [8:20:54](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=30054s) - Our Notes So Far [8:24:03](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=30243s) - Scanning w/ Nessus Part 1 [8:34:42](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=30882s) - Scanning w/ Nessus Part 2 [8:40:57](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=31257s) - Reverse Shells vs Bind Shells [8:48:02](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=31682s) - Staged vs Non-Staged Payloads [8:51:27](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=31887s) - Gaining Root w/ Metasploit [8:59:13](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=32353s) - Manual Exploitation [9:11:57](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=33117s) - Brute Force Attacks [9:19:50](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=33590s) - Credential Stuffing & Password Spraying [9:33:58](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=34438s) - Our Notes, Revisited [9:37:05](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=34625s) - Capstone Introduction [9:42:54](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=34974s) - Setting up Blue [9:46:55](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=35215s) - Blue Walkthrough [10:04:00](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=36240s) - Academy Setup [10:06:28](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=36388s) - Academy Walkthrough [10:50:52](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=39052s) - Dev Walkthrough [11:16:18](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=40578s) - Butler Walkthrough [11:52:41](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=42761s) - Blackpearl Walkthrough [12:16:17](https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=44177s) - Conclusion
+0:00 - Introduction/whoami
+6:20 - A Day in the Life of an Ethical Hacker
+23:14 - Effective Notekeeping
+29:58 - Important Tools
+35:23 - Networking Refresher: Introduction
+36:39 - IP Addresses
+49:50 - MAC Addresses
+53:07 - TCP, UDP, & the Three-Way Handshake
+58:25 - Common Ports & Protocols
+1:04:39 - The OSI Model
+1:10:14 - Subnetting
+1:37:17 - Installing VMWare / VirtualBox
+1:43:37 - Installing Kali Linux
+1:50:11 - Configuring VirtualBox
+1:53:32 - Kali Linux Overview
+1:57:05 - Sudo Overview
+2:02:22 - Navigating the File System
+2:14:26 - Users & Privileges
+2:23:54 - Common Network Commands
+2:29:50 - Network Commands Update
+2:31:49 - Installing & Updating Tools
+2:41:01 - Installing gedit
+2:42:46 - Viewing, Creating, & Editing Files
+2:48:49 - Scripting with Bash
+3:11:28 - Intro to Python
+3:13:52 - Strings
+3:21:25 - Math
+3:27:24 - Variables & Methods
+3:38:41 - Functions
+3:49:40 - Boolean Expressions
+3:54:14 - Relational & Boolean Operators
+4:01:13 - Conditional Statements
+4:10:13 - Lists
+4:20:41 - Tuples
+4:23:16 - Looping
+4:28:18 - Importing Modules
+4:34:24 - Advanced Strings
+4:47:47 - Dictionaries
+4:55:23 - Sockets
+5:00:55 - Building a Port Scanner
+5:21:09 - The 5 Stages of Ethical Hacking
+5:26:31 - Passive Recon Overview
+5:34:07 - Identifying Our Target
+5:37:46 - Discovering Email Addresses
+5:53:38 - Breached Credentials Part 1
+6:01:00 - Breached Credentials Part 2
+6:13:00 - Hunting Subdomains Part 1
+6:18:35 - Hunting Subdomains Part 2
+6:23:30 - Identifying Website Technologies
+6:30:39 - Gathering Information w/ Burp Suite
+6:39:33 - Google Fu
+6:45:09 - Utilizing Social Media
+6:50:49 - Installing Kioptrix
+6:57:12 - Scanning w/ Nmap
+7:17:04 - Enumerating HTTP/HTTPS Part 1
+7:32:09 - Enumerating HTTP/HTTPS Part 2
+7:47:22 - Enumerating SMB
+8:01:46 - Enumerating SSH
+8:05:59 - Researching Potential Vulnerabilities
+8:20:54 - Our Notes So Far
+8:24:03 - Scanning w/ Nessus Part 1
+8:34:42 - Scanning w/ Nessus Part 2
+8:40:57 - Reverse Shells vs Bind Shells
+8:48:02 - Staged vs Non-Staged Payloads
+8:51:27 - Gaining Root w/ Metasploit
+8:59:13 - Manual Exploitation
+9:11:57 - Brute Force Attacks
+9:19:50 - Credential Stuffing & Password Spraying
+9:33:58 - Our Notes, Revisited
+9:37:05 - Capstone Introduction
+9:42:54 - Setting up Blue
+9:46:55 - Blue Walkthrough
+10:04:00 - Academy Setup
+10:06:28 - Academy Walkthrough
+10:50:52 - Dev Walkthrough
+11:16:18 - Butler Walkthrough
+11:52:41 - Blackpearl Walkthrough
+12:16:17 - Conclusion
