@@ -1,6 +1,5 @@
 use `ls -la` to get permission information on a file/directory and show hidden files starting with `.`
 ![[Pasted image 20240919234259.png]]
-
 *directory or file? | owner | group | everyone*
 `d` - directory
 `r` - readable 
